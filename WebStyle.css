@@ -43,6 +43,7 @@ h1 {
 	font-size: 3em;
 	font-weight: 200;
 	letter-spacing: 0.1em;
+	padding: 5em;
 }
 
 h2 {
@@ -50,6 +51,7 @@ h2 {
 	background-color: rgb(142,242,175);
 	font-family: 'Lilita One', cursive, serif;
 	font-size: 1.7em;
+	padding: 5em;
 }
 
 
@@ -63,6 +65,7 @@ section {
 	color: rgb(129,68,196);
 	background-color: ivory;
 	font-size: 1.0em;
+	padding: 5em;
 }
 
 body > footer address {
